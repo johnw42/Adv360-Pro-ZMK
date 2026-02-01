@@ -86,3 +86,6 @@
     };
   };
 };
+
+# Increase idle timeout to 5 minutes (300,000 ms)
+CONFIG_ZMK_IDLE_TIMEOUT=300000
